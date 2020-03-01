@@ -1,0 +1,12 @@
+.baguetteBox-button#previous-button, .baguetteBox-button#next-button, .baguetteBox-button {
+    background: none;
+}
+
+.baguetteBox-button:focus, .baguetteBox-button:hover {
+    background-color: none !important;
+}
+
+
+:focus {
+    outline: none !important;
+}
