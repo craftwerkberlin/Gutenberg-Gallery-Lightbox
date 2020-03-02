@@ -10,3 +10,7 @@
 :focus {
     outline: none !important;
 }
+
+.wp-block-gallery.is-cropped .blocks-gallery-item img {
+    border-radius: .25rem;
+}
