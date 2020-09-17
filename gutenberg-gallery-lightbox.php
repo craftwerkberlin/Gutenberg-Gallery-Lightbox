@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Gutenberg Gallery Lightbox
+ * Plugin Name: bS Gutenberg Gallery Lightbox
  * Plugin URI: https://bootscore.me/plugins/gutenberg-lightbox/
  * Description: Adds a Lightbox to the Gutenberg Gallery Block. Gallery settings must set to "Link to: Media File" in the right panel.
  * Author: Bastian Kreiter
