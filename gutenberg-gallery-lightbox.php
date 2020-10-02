@@ -5,7 +5,7 @@
  * Description: Adds a Lightbox to the Gutenberg Gallery Block. Gallery settings must set to "Link to: Media File" in the right panel.
  * Author: Bastian Kreiter
  * Author URI: https://crftwrk.de
- * Version: 1.0.1
+ * Version: 1.0.2
  */
 
 

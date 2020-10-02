@@ -2,17 +2,9 @@
     background: none;
 }
 
-.baguetteBox-button:focus, .baguetteBox-button:hover {
+.baguetteBox-button:focus, .baguetteBox-button:hover, .baguetteBox-button svg {
     background-color: none !important;
-}
-
-
-:focus {
     outline: none !important;
-}
-
-.wp-block-gallery.is-cropped .blocks-gallery-item img {
-    border-radius: .25rem;
 }
 
 div#baguetteBox-overlay {
